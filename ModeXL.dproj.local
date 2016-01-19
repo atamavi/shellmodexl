@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.678,C:\Users\123\Documents\Embarcadero\Studio\Projects\ModeXL.dproj=C:\Users\123\Desktop\ShellModeXL\ModeXL.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,C:\Users\123\Documents\Embarcadero\Studio\Projects\ModeXL.dproj=C:\Users\123\Documents\Embarcadero\Studio\Projects\Pompalamasyon.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,C:\Users\123\Documents\Embarcadero\Studio\Projects\Pompalamasyon.dproj=C:\Users\123\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,=C:\Users\123\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,C:\Users\123\Documents\Embarcadero\Studio\Projects\ModeXL.dproj=C:\Users\123\Documents\Embarcadero\Studio\Projects\ModeXL.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,C:\Users\123\Documents\Embarcadero\Studio\Projects\ShellModeXL.pas=C:\Users\123\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,=C:\Users\123\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\123\Documents\Embarcadero\Studio\Projects\ShellModeXL.dfm=C:\Users\123\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2016.01.19 08:24:31.267,C:\Users\123\Desktop\ShellModeXL\shellmodexl\ModeXL.dproj=C:\Users\123\Desktop\ShellModeXL\ModeXL.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
